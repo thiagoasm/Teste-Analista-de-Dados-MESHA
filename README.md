@@ -33,7 +33,7 @@ Critérios avaliadas:
 8. Qual a média por Etnia?
 
 
-###Resposta
+### Resposta:
 Conforme foi pedido, foram extraidas as informações do conjunto de arquivos disponibilizado, dividi o relatorio em 
 três paginas: Media,Ausência e Escola.
 Porém não foi possivel subir o arquivo para o git devido aou seu tamanho, segue o link do 
