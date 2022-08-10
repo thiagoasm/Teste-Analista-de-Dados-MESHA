@@ -35,6 +35,6 @@ Critérios avaliadas:
 
 ### Resposta:
 Conforme foi pedido, foram extraidas as informações do conjunto de arquivos disponibilizado, dividi o relatorio em 
-três paginas: Media,Ausência e Escola.
+três paginas: Media, Ausência e Escola.
 Porém não foi possivel subir o arquivo para o git devido aou seu tamanho, segue o link do 
 drive que ele esta disponivel:[clicando aqui] (https://drive.google.com/file/d/1ZnJJVYhzZHUlV0Mem0anIloncj1hMd30/view?usp=sharing)
